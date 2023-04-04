@@ -1,2 +1,2 @@
 # BilgiYarismasi
- C# ile bilgi yarışması
+ C# ile bilgi yarışması uygulaması
